@@ -1,2 +1,2 @@
-# tinyurl
-# url shortner using django
+# TinyUrl 
+## Url Shortner made using Django
